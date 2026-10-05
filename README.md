@@ -8,19 +8,19 @@ Currently, I'm focused on strengthening my fundamentals in **software engineerin
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🎓 Computer Science Engineering undergraduate — **2027**
-* 💻 Interested in **Software Engineering, AI & Backend Development**
-* 🤖 Exploring **Generative AI, RAG systems and Agentic AI**
-* ☕ Primary languages: **Java & Python**
-* 🧩 Strong interest in **Data Structures & Algorithms**
-* 🛠️ Enjoy building projects from idea → implementation → deployment
-* 🌱 Currently learning more about **cloud, system design and production-ready applications**
+* Computer Science Engineering undergraduate — **2027**
+* Interested in **Software Engineering, AI & Backend Development**
+* Exploring **Generative AI, RAG systems and Agentic AI**
+* Primary languages: **Java & Python**
+* Strong interest in **Data Structures & Algorithms**
+* Enjoy building projects from idea → implementation → deployment
+* Currently learning more about **cloud, system design and production-ready applications**
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Software Engineering Program Intern — JPMorganChase
 
@@ -38,7 +38,7 @@ Selected for JPMorganChase's Code for Good Hackathon and worked on a technology 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -64,36 +64,30 @@ Selected for JPMorganChase's Code for Good Hackathon and worked on a technology 
 
 `Git` `GitHub` `Postman` `Docker` `Vercel`
 
-## 📚 Learning & Practice
+## Learning & Practice
 
 I'm continuously building small projects and maintaining notes while improving my fundamentals.
 
 **Current areas:**
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* DBMS & SQL
-* Operating Systems
-* Computer Networks
-* Backend Development
-* System Design
 * Generative AI & RAG
 * Agentic AI
 * Cloud & Deployment
+* System Design
 
 ---
 
-## 📊 Coding
+## Coding
 
-* 💡 **1200+** DSA problems practiced
-* 🟢 **1000+** problems on LeetCode
-* ⭐ LeetCode rating: **1650+**
-* 🏅 HackerRank: Python **5★**, Problem Solving **6★**
-* 💻 Regular practice with Java, Python and SQL
+* **1500+** DSA problems practiced
+* **1000+** problems on LeetCode
+* LeetCode rating: **1650+**
+* HackerRank: Python **5★**, Problem Solving **6★**
+* Regular practice with Java, Python and SQL
 
 ---
 
-## 🎯 2026–27 Goals
+## 2026–27 Goals
 
 * Build and deploy production-quality software projects
 * Strengthen **CS fundamentals and DSA**
@@ -101,16 +95,16 @@ I'm continuously building small projects and maintaining notes while improving m
 * Learn more about **system design and cloud**
 * Contribute to open-source projects
 * Create a strong developer portfolio
-* Keep learning in public 🚀
+* Keep learning in public 
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/varshita-posani/]
-* 🧑‍💻 LeetCode: [https://leetcode.com/u/Varshita05/]
-* 🏆 HackerRank: [https://www.hackerrank.com/profile/varshitaposani_1]
-* 📧 Email: [varshitaposani.05@gmail.com]
+* LinkedIn: [https://www.linkedin.com/in/varshita-posani/]
+* LeetCode: [https://leetcode.com/u/Varshita05/]
+* HackerRank: [https://www.hackerrank.com/profile/varshitaposani_1]
+* Email: [varshitaposani.05@gmail.com]
 
 ---
 
